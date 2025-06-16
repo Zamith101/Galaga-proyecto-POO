@@ -178,7 +178,6 @@ enemies.append({
 **Galaga** es un proyecto funcional con:  
 ✔ **4 tipos de enemigos + jefes**  
 ✔ **Sistema de power-ups**  
-✔ **Guardado de puntuaciones**
 
 ## ** Notas de Version 2.0**
 Contiene errores el nivel, actualmente esta version solo contiene aproximadamente 3 niveles ya que en su estructura de codigo hay un error.
