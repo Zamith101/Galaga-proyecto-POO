@@ -134,13 +134,12 @@ flowchart TD
 
 ### **6.1. Técnicas Implementadas**  
 ✔ **Canvas Recycling**: Reutilización de objetos gráficos para evitar *lag*.  
-✔ **Colisiones por Distancia**: Más eficiente que *hitbox* en Tkinter.  
 ✔ **Game Loop a 30 FPS**: Equilibrio entre fluidez y consumo de CPU.  
 
 ### **6.2. Posibles Cuellos de Botella**  
 - Muchos enemigos en pantalla (>50).  
-- Sonidos muy largos sin compresión.    
-
+- Sonidos muy largos sin compresión.
+- 
 ---
 
 ## **7. Extensibilidad y Mods**  
